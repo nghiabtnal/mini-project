@@ -37,6 +37,7 @@
       - Tên hàm mô tả rõ nội dung test.
       - Mỗi test chỉ bao gồm 1 assert (ở đây cụ thể là Assert status trả về của HTTP request là 200).
       - Độc lập với các test case khác.
+
 ## Clean architecture
 1. S : Single Responsibility Principle.
 2. O : Open/Closed Principle.
