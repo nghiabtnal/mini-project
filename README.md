@@ -5,15 +5,15 @@
 ```
 ├── main
 │   └── java/org/example/miniproject
-│       ├── api ##Web layer
-│       ├── dao ##Data layer
-│       ├── models ##Data layer
-│       ├── repositories ##Data layer
-│       ├── service ##Business layer
-│       └── libs ##libs
+│       ├── api ## Web layer
+│       ├── dao ## Data layer
+│       ├── models ## Data layer
+│       ├── repositories ## Data layer
+│       ├── service ## Business layer
+│       └── libs ## libs
 │   └── resources
 ├── test
-│   └── java/org/example/miniproject ## **Unit testing**
+│   └── java/org/example/miniproject ## Unit testing
 ```
 
 ## Clean code
