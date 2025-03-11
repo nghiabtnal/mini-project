@@ -40,6 +40,7 @@
       - Độc lập với các test case khác.
 
 ## Clean architecture
+Sử dụng **SOLID**, nguyên lý thiết kế phần mềm hướng đối tượng nhằm giúp tạo ra mã nguồn dễ hiểu, dễ duy trì, mở rộng và tái sử dụng
 1. S : Single Responsibility Principle.
 2. O : Open/Closed Principle.
 3. L : Liskov Substitution Principle.
