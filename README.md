@@ -24,19 +24,15 @@
     - Quy định về test.
 
 2. Ví dụ :
-    -  Functions : 
-
 <img width="805" alt="image" src="https://github.com/user-attachments/assets/b063a016-49aa-4d53-bdf5-88ee05f0730a" />
 
+    -  Functions : 
       - Tên hàm : Là động từ, ngắn gọn (vừa tầm mắt), dễ hiểu.
       - Mỗi hàm chỉ làm việc duy nhất.
       - Doc : Có mô tả input, output, description.
 
-
-    - Unit test :
-
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/0cf2b8c0-cd3e-49ef-b357-83b80328130b" />
-
+    - Unit test :
       - Dễ đọc.
       - Tên hàm mô tả rõ nội dung test.
       - Mỗi test chỉ bao gồm 1 assert (ở đây cụ thể là Assert status trả về của HTTP request là 200).
