@@ -1,6 +1,6 @@
 # Giới thiệu
 - Mini project áp dụng những nội dung đã học trong quá trình tham gia devtech club.
-- Bao gồm 3 nội dung chính `clean code`, `clean architecture`, `Unit testing`.
+- Bao gồm 3 nội dung chính **CLEAN CODE**, **CLEAN ARCHITECTURE**, **UNIT TESTING**.
 ## Cấu trúc folder dự án 
 ```
 ├── main
